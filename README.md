@@ -1,4 +1,4 @@
-**🤖 Smart Chatbot with Human Guidance & Instant Search Results**
+🤖 Smart Chatbot with Human Guidance & Instant Search Results
 
 An intelligent chatbot built with Streamlit, LangChain, and LangGraph, enhanced with real-time web search using Tavily and optional human assistance handling.
 
